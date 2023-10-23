@@ -1,0 +1,130 @@
+.header{
+	width: 100%;
+	text-align: center;
+	margin-top: 5%;
+}
+
+.main-title{
+	display: inline-block;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 35px;
+   border-bottom: 1px solid black;
+}
+
+.main-paragraph{
+    display: inline;
+    font-style: italic;
+    color: black;
+    background-color: transparent; 
+}
+
+.back{
+	display: block;
+    background-color: yellow;
+	width: 12%;
+	position: absolute;
+    right: 44%;
+}
+
+.feature-image{
+	width: 100%;
+	height: 100%;
+}
+
+.Kat{
+	width: 90%;
+	margin-top: 10px;
+	margin-left: 80px;
+}
+
+.Fig-Kat{
+	font-style: italic;
+	font-weight: 900;
+}
+
+.biography{
+	text-align: justify;
+}
+
+.Bio{
+	font-size: 17px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.biography h2{
+	font-style: italic;
+}
+.bold{
+	font-weight: 900;
+}
+
+.quotes-container{
+	font-family: Georgia, 'Times New Roman', Times, serif ;
+	margin: 80px;
+	font-weight: 700;
+	font-size: 30px;
+}
+.curiosities-container h2{
+	font-family: 'Merriweather', serif;
+	font-style: italic;
+	display: inline-block;
+	font-size: 50px;
+	font-weight: 200;
+	border-bottom: 1px solid black;
+	margin-left: 39%;
+	color: black;
+	background: yellow;
+}
+.curiosities-container{
+  margin-left: 30px;
+}
+
+.curiosities-container ul{
+ list-style-type: circle;
+}
+ 
+.curiosities-container li{
+  font-size: 23px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Musica blockquote{
+	font-style: italic;
+	font-size: 20px;
+	text-align: center;
+}
+
+.Musica p{
+	font-size: 18px;
+	margin-left: 20%;
+	font-style: italic;
+}
+
+.img-bold{
+	width: 100%;
+	height: 100%;
+}
+.img-bold figcaption{
+   font-family: 'Times New Roman', Times, serif;
+   font-style: italic;
+   text-align: center;
+}
+
+.Jogo{
+	width: 30%;
+	margin-left: 35%;
+}
+
+.moreinfo-container h2{
+	font-size: 30px;
+	font-style: italic;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Times, serif;
+}
+
+.moreinfo-container P{
+	font-size: 18px;
+	font-style: italic;
+}
+
+.moreinfo-container a{
+  text-decoration: none;
+}
